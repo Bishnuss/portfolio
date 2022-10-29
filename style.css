@@ -1,7 +1,23 @@
 
 /* #title{
+    background-color: rgb(245, 233, 224);
 
 } */
 #home{
+    /* background-color: rgb(245, 233, 224); */
+
     background-image: url("./images/wp2757874-wallpaper-gif.gif");
+}
+#about{
+    background-color: rgb(245, 233, 224);
+}
+#services{
+    background-color: rgb(255, 247, 241);
+}
+#gallery{
+    background-color: rgb(245, 233, 224);
+}
+#contact{
+    background-color: rgb(245, 233, 224);
+
 }
